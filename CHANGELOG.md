@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.0.2] - 2025-11-28
+
 ## [3.132.6] - 2020-12-02
 ### Changed
 - `Logo` components implementation from JavaScript to TypeScript.
